@@ -21,12 +21,12 @@ The dataset includes sample data from a hospitality environment with the followi
 7. Channel (Online, Offline, OTA, etc.)
 8. Check-in / Check-out Dates
 # 📌 Key Features
-✅ Interactive filters for property, channel, and time period
-✅ KPI cards for high-level metrics (Total Revenue, RevPAR, ADR, etc.)
-✅ Trend line analysis for monthly/yearly revenue growth
-✅ Dynamic visuals like clustered bar charts, line graphs, and slicers
-✅ Comparative insights across cities and customer types
-✅ Clean and professional layout with responsive design in Power BI
+1. ✅ Interactive filters for property, channel, and time period
+2. ✅ KPI cards for high-level metrics (Total Revenue, RevPAR, ADR, etc.)
+3. ✅ Trend line analysis for monthly/yearly revenue growth
+4. ✅ Dynamic visuals like clustered bar charts, line graphs, and slicers
+5. ✅ Comparative insights across cities and customer types
+6. ✅ Clean and professional layout with responsive design in Power BI
 # 🛠 Tools Used
 a. Power BI Desktop: For building interactive and insightful visualizations
 b. Excel / CSV: For data cleaning and transformation
